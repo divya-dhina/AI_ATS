@@ -1,0 +1,232 @@
+[
+    {
+        "candidate": "resume1.txt",
+        "match_level": "High",
+        "strengths": [
+            "spring boot",
+            "rest api",
+            "microservices",
+            "postgresql"
+        ],
+        "weaknesses": [
+            "java"
+        ],
+        "reasoning": "The candidate has strong experience in Spring Boot, REST APIs, and microservices architecture, which aligns well with the job description. However, the candidate's experience in Java is not explicitly mentioned, which is a key requirement.",
+        "recommendation": "Interview"
+    },
+    {
+        "candidate": "resume10.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "postgresql",
+            "rest"
+        ],
+        "weaknesses": [
+            "java",
+            "spring boot",
+            "microservices architecture"
+        ],
+        "reasoning": "The candidate has some relevant skills such as PostgreSQL and REST APIs, but lacks experience in Java, Spring Boot, and microservices architecture, which are crucial for the position. The candidate's experience in AWS and Django is not directly applicable to the job.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume11.pdf",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The candidate's skills and experience do not align with the job requirements. The candidate has no experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential skills for the Backend Developer position.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "resume12.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "spring boot",
+            "java"
+        ],
+        "weaknesses": [
+            "missing experience with REST APIs",
+            "missing experience with microservices architecture"
+        ],
+        "reasoning": "The candidate has relevant experience in Java and Spring Boot, which aligns with the job description. However, they lack experience with REST APIs and microservices architecture, which are key requirements for the position. Additionally, they do not have direct experience with PostgreSQL, although they have experience with MySQL.",
+        "recommendation": "Interview"
+    },
+    {
+        "candidate": "resume13.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "java",
+            "sql"
+        ],
+        "weaknesses": [
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The candidate has some relevant experience and skills, but lacks specific expertise in the required technologies, such as Spring Boot, REST APIs, and microservices architecture. Their experience with Java and SQL is a plus, but they may require additional training or guidance to excel in this role.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume14.pdf",
+        "match_level": "High",
+        "strengths": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "weaknesses": [],
+        "reasoning": "The candidate has strong experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which aligns well with the job description. Additionally, they have experience with cloud platforms, which is a plus.",
+        "recommendation": "Interview"
+    },
+    {
+        "candidate": "resume15.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "spring boot",
+            "cloud"
+        ],
+        "weaknesses": [
+            "java",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The candidate has some relevant skills such as Spring Boot and cloud experience, but lacks strong experience in Java and microservices architecture. Additionally, there is no mention of PostgreSQL experience. However, the candidate's overall score is not extremely low, hence the medium match level.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume2.txt",
+        "match_level": "Medium",
+        "strengths": [
+            "Spring Boot",
+            "REST",
+            "Java"
+        ],
+        "weaknesses": [
+            "No experience with microservices architecture",
+            "No experience with PostgreSQL"
+        ],
+        "reasoning": "The candidate has relevant experience with Spring Boot and REST, but lacks experience with microservices architecture and PostgreSQL, which are key requirements for the job. Their overall match score is moderate, indicating a decent fit but not a perfect match.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume3.txt",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The candidate's skills and experience do not align with the job requirements. They have experience in Python and machine learning, but not in Java, Spring Boot, or related technologies. This mismatch makes it difficult to assess their ability to perform the job.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "resume4.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "javascript",
+            "rest",
+            "css"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "PostgreSQL",
+            "cloud platforms"
+        ],
+        "reasoning": "The candidate has a strong foundation in web development with skills in HTML, CSS, and JavaScript. However, they lack experience in Java, Spring Boot, and PostgreSQL, which are essential for the Backend Developer role. Additionally, there is no mention of cloud platforms, which is a plus in the job description.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume5.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "postgresql"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture"
+        ],
+        "reasoning": "The candidate has some relevant skills like PostgreSQL, but lacks experience in Java, Spring Boot, REST APIs, and microservices architecture, which are crucial for the Backend Developer role. The candidate's experience and certifications are not directly related to the job requirements.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume6.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "Python",
+            "Flask",
+            "SQL"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The candidate has some relevant skills such as Python, Flask, and SQL, but lacks experience in Java, Spring Boot, REST APIs, and microservices architecture, which are crucial for the Backend Developer role. Additionally, there is no mention of PostgreSQL or cloud platforms, which are also important for the position.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume7.docx",
+        "match_level": "Medium",
+        "strengths": [
+            "python",
+            "sql"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture"
+        ],
+        "reasoning": "The candidate has some relevant skills such as Python and SQL, but lacks experience in Java, Spring Boot, and REST APIs, which are crucial for the Backend Developer role. Additionally, the candidate does not have experience with PostgreSQL, which is a requirement for the job.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "resume8.pdf",
+        "match_level": "High",
+        "strengths": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "PostgreSQL"
+        ],
+        "weaknesses": [
+            "C++",
+            "JavaScript",
+            "Django",
+            "Python",
+            "MySQL"
+        ],
+        "reasoning": "The candidate has strong experience in Java, Spring Boot, and REST APIs, which aligns well with the job description. Additionally, they have experience with PostgreSQL, which is a requirement. However, they lack experience with microservices architecture, which is a key aspect of the job.",
+        "recommendation": "Interview"
+    },
+    {
+        "candidate": "resume9.pdf",
+        "match_level": "High",
+        "strengths": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "PostgreSQL"
+        ],
+        "weaknesses": [
+            "Django",
+            "Python",
+            "MySQL"
+        ],
+        "reasoning": "The candidate's experience and skills align well with the job description, particularly in Java, Spring Boot, and PostgreSQL. However, the presence of Django, Python, and MySQL skills may indicate a broader range of expertise, which could be beneficial in a microservices architecture.",
+        "recommendation": "Interview"
+    }
+]

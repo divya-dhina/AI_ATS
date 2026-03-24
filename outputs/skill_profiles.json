@@ -1,0 +1,370 @@
+[
+    {
+        "candidate": "resume1.txt",
+        "skills": [
+            "spring boot",
+            "aws",
+            "cloud",
+            "microservices",
+            "python",
+            "rest",
+            "postgresql",
+            "spring",
+            "rest api",
+            "mysql",
+            "docker",
+            "java"
+        ],
+        "skill_score": 35,
+        "experience_years": 9.2,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "online food ordering system",
+                "description": "- built backend services using spring boot and rest apis - implemented authentication and authorization - used postgresql for data persistence",
+                "technologies": [
+                    "spring",
+                    "spring boot",
+                    "postgresql",
+                    "rest",
+                    "api",
+                    "sql"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume10.pdf",
+        "skills": [
+            "html",
+            "aws",
+            "javascript",
+            "django",
+            "python",
+            "postgresql",
+            "rest",
+            "css",
+            "sql"
+        ],
+        "skill_score": 21,
+        "experience_years": 9.2,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "cryptocurrency price tracker",
+                "description": "creator \u00b7 incorporated api calls to several applications, and stored data efficiently in postgresql backend \u00b7 utilized d3.js to allow users to dynamically visualize price movements over time periods of their choosing",
+                "technologies": [
+                    "postgresql",
+                    "api",
+                    "sql"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume11.pdf",
+        "skills": [
+            "css",
+            "html"
+        ],
+        "skill_score": 2,
+        "experience_years": 3.2,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "b.f.a.",
+                "description": "junior graphic designer visual arts carta healthcare university of chicago 2021 - 2023 austin, tx 2016 - 2020 collaborated with marketing, pr, and social media teams to chicago, il design graphics, boosting social engagement by 32% used html and css to create a high-fidelity mockup, highlighting custom graphics for a product before its launch",
+                "technologies": [
+                    "html",
+                    "css"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume12.pdf",
+        "skills": [
+            "spring boot",
+            "jenkins",
+            "spring",
+            "mysql",
+            "docker",
+            "java"
+        ],
+        "skill_score": 17,
+        "experience_years": 6.2,
+        "certifications": [
+            "oracle certified"
+        ],
+        "projects": []
+    },
+    {
+        "candidate": "resume13.pdf",
+        "skills": [
+            "html",
+            "javascript",
+            "django",
+            "sql",
+            "css",
+            "java"
+        ],
+        "skill_score": 11,
+        "experience_years": 10.5,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "campus events tracker",
+                "description": "creator developed and designed full stack java application to display campus events with the application while updating every 24 hours. used travis for hosting to facilitate open source contributions from other college students. tuned and monitored application performance. debugged and troubleshot code related issues/defects to ensure application remained functional and 100% bug- free. followed aria and a11y accessibility standards to ensure users with disabilities had highest quality ui/ux.",
+                "technologies": [
+                    "java"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume14.pdf",
+        "skills": [
+            "ci/cd",
+            "spring boot",
+            "java",
+            "aws",
+            "cloud",
+            "rest",
+            "postgresql",
+            "spring",
+            "microservices",
+            "mysql",
+            "docker",
+            "sql"
+        ],
+        "skill_score": 33,
+        "experience_years": 10.2,
+        "certifications": [
+            "\u25cf java spring boot microservices \u2013 udemy"
+        ],
+        "projects": [
+            {
+                "title": "apis, and postgresql.",
+                "description": "\u25cf user authentication service: developed a secure authentication microservice using spring security and jwt. \u25cf cloud-deployed backend apis: deployed spring boot services on aws with docker containerization.",
+                "technologies": [
+                    "spring",
+                    "spring boot",
+                    "docker",
+                    "aws",
+                    "api"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume15.pdf",
+        "skills": [
+            "spring boot",
+            "aws",
+            "cloud",
+            "tensorflow",
+            "jenkins",
+            "react",
+            "spring"
+        ],
+        "skill_score": 21,
+        "experience_years": 7.2,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "jenkins",
+                "description": "\" decreased mobile app density defects by 31% by tensorflow integrating react native ule lements spring boot \" worked within budget and timelines to deliver user apache hadoop eccentric solutions and maintained a user satisfaction rating idps of 94% through customer feedback surveys react native selenium principal software engineer oracle intel 2010 -2014 / santa clara, ca \" optimized storage and dataset processing through apache hadoop, resulting in a 47% increase in concurrent user capacity \" automated web applications testing across browsers with selenium that shrank user-reported defects by 68% \" led a team of 4 software engineers to create and upgrade databases on oracle with a consistent 98% on-time delivery rate \" implemented cloud infrastructure optimizations, which decreased monthly hosting costs by 28% and boosted system reliability",
+                "technologies": [
+                    "spring",
+                    "spring boot",
+                    "react"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume2.txt",
+        "skills": [
+            "html",
+            "spring boot",
+            "javascript",
+            "rest",
+            "css",
+            "react",
+            "spring",
+            "mysql",
+            "java"
+        ],
+        "skill_score": 18,
+        "experience_years": 4.2,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "employee management system",
+                "description": "- created backend apis using spring boot - implemented frontend ui using react - integrated database operations with mysql",
+                "technologies": [
+                    "spring",
+                    "spring boot",
+                    "react",
+                    "mysql",
+                    "api",
+                    "sql"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume3.txt",
+        "skills": [
+            "numpy",
+            "machine learning",
+            "python",
+            "pandas"
+        ],
+        "skill_score": 15,
+        "experience_years": 3.2,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "sales data analysis",
+                "description": "- analyzed large datasets using python - created visualizations to identify trends",
+                "technologies": [
+                    "python"
+                ]
+            }
+        ]
+    },
+    {
+        "candidate": "resume4.pdf",
+        "skills": [
+            "html",
+            "javascript",
+            "mongodb",
+            "rest",
+            "css",
+            "react",
+            "mysql",
+            "docker",
+            "node.js"
+        ],
+        "skill_score": 19,
+        "experience_years": 11.1,
+        "certifications": [
+            "\u25cf full-stack web development \u2013 coursera",
+            "\u25cf react \u2013 the complete guide \u2013 udemy"
+        ],
+        "projects": []
+    },
+    {
+        "candidate": "resume5.pdf",
+        "skills": [
+            "html",
+            "javascript",
+            "mongodb",
+            "postgresql",
+            "css",
+            "react",
+            "docker",
+            "node.js"
+        ],
+        "skill_score": 19,
+        "experience_years": 10.2,
+        "certifications": [
+            "\u25cf modern javascript & es6 \u2013 coursera",
+            "\u25cf full-stack web development \u2013 udemy"
+        ],
+        "projects": [
+            {
+                "title": "technical blogs.",
+                "description": "",
+                "technologies": []
+            }
+        ]
+    },
+    {
+        "candidate": "resume6.pdf",
+        "skills": [
+            "aws",
+            "numpy",
+            "pandas",
+            "python",
+            "flask",
+            "mysql",
+            "sql"
+        ],
+        "skill_score": 21,
+        "experience_years": 8.2,
+        "certifications": [],
+        "projects": []
+    },
+    {
+        "candidate": "resume7.docx",
+        "skills": [
+            "aws",
+            "numpy",
+            "pandas",
+            "azure",
+            "python",
+            "sql"
+        ],
+        "skill_score": 20,
+        "experience_years": 7.2,
+        "certifications": [],
+        "projects": []
+    },
+    {
+        "candidate": "resume8.pdf",
+        "skills": [
+            "c++",
+            "java",
+            "aws",
+            "cloud",
+            "javascript",
+            "django",
+            "python",
+            "postgresql",
+            "react",
+            "mysql",
+            "sql"
+        ],
+        "skill_score": 30,
+        "experience_years": 16.9,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "the e-commerce system",
+                "description": "\u00b7 received coaching and support from peers and senior software engineer, and gained practical",
+                "technologies": []
+            }
+        ]
+    },
+    {
+        "candidate": "resume9.pdf",
+        "skills": [
+            "ci/cd",
+            "html",
+            "aws",
+            "cloud",
+            "javascript",
+            "django",
+            "python",
+            "postgresql",
+            "css",
+            "react",
+            "mysql",
+            "node.js",
+            "gcp",
+            "sql"
+        ],
+        "skill_score": 37,
+        "experience_years": 9.2,
+        "certifications": [],
+        "projects": [
+            {
+                "title": "front-end developer",
+                "description": "excited about the prospect of joining a product-driven amr company like acme corp. january 2014 - december 2016 / new york, ny \u00b7 contributed to the in-house ui library to create reusable components that saved 125+ hours of development per month",
+                "technologies": []
+            }
+        ]
+    }
+]

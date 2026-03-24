@@ -1,0 +1,152 @@
+[
+    {
+        "candidate": "resume14.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 23.56666666666657,
+            "Skill_Score": 57.67266666666667,
+            "Experience_Score": 21.999999999999993,
+            "Certification_Score": 1.1999999999999922,
+            "Project_Score": 5.599999999999989
+        }
+    },
+    {
+        "candidate": "resume1.txt",
+        "feature_contributions": {
+            "Semantic_Score": 17.956666666666734,
+            "Skill_Score": 57.67266666666676,
+            "Experience_Score": 14.000000000000009,
+            "Certification_Score": -0.8000000000000025,
+            "Project_Score": 5.600000000000007
+        }
+    },
+    {
+        "candidate": "resume2.txt",
+        "feature_contributions": {
+            "Semantic_Score": 9.186666666666625,
+            "Skill_Score": 23.502666666666695,
+            "Experience_Score": -36.00000000000004,
+            "Certification_Score": -0.8000000000000096,
+            "Project_Score": 5.599999999999998
+        }
+    },
+    {
+        "candidate": "resume12.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 11.796666666666631,
+            "Skill_Score": 15.172666666666636,
+            "Experience_Score": -15.999999999999993,
+            "Certification_Score": 1.1999999999999886,
+            "Project_Score": -4.4
+        }
+    },
+    {
+        "candidate": "resume8.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 0.8066666666667075,
+            "Skill_Score": 8.352666666666623,
+            "Experience_Score": 22.000000000000007,
+            "Certification_Score": -0.800000000000014,
+            "Project_Score": -2.400000000000011
+        }
+    },
+    {
+        "candidate": "resume15.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 1.9766666666666026,
+            "Skill_Score": 13.03266666666662,
+            "Experience_Score": -6.00000000000002,
+            "Certification_Score": -0.8000000000000087,
+            "Project_Score": 4.599999999999985
+        }
+    },
+    {
+        "candidate": "resume5.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 16.31666666666662,
+            "Skill_Score": -16.077333333333314,
+            "Experience_Score": 22.000000000000018,
+            "Certification_Score": 3.199999999999992,
+            "Project_Score": -2.4000000000000012
+        }
+    },
+    {
+        "candidate": "resume13.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 9.686666666666618,
+            "Skill_Score": -14.827333333333312,
+            "Experience_Score": 21.999999999999993,
+            "Certification_Score": -0.8000000000000096,
+            "Project_Score": -1.4000000000000057
+        }
+    },
+    {
+        "candidate": "resume9.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 2.2866666666667506,
+            "Skill_Score": -5.5373333333332875,
+            "Experience_Score": 14.000000000000005,
+            "Certification_Score": -0.8000000000000052,
+            "Project_Score": -2.4000000000000012
+        }
+    },
+    {
+        "candidate": "resume4.pdf",
+        "feature_contributions": {
+            "Semantic_Score": 5.436666666666731,
+            "Skill_Score": -16.4973333333333,
+            "Experience_Score": 21.999999999999996,
+            "Certification_Score": 3.199999999999992,
+            "Project_Score": -4.400000000000001
+        }
+    },
+    {
+        "candidate": "resume10.pdf",
+        "feature_contributions": {
+            "Semantic_Score": -7.653333333333325,
+            "Skill_Score": -3.1573333333333684,
+            "Experience_Score": 13.999999999999996,
+            "Certification_Score": -0.8000000000000034,
+            "Project_Score": 4.600000000000002
+        }
+    },
+    {
+        "candidate": "resume6.pdf",
+        "feature_contributions": {
+            "Semantic_Score": -20.393333333333306,
+            "Skill_Score": -29.82733333333331,
+            "Experience_Score": 3.999999999999992,
+            "Certification_Score": -0.8000000000000087,
+            "Project_Score": -4.399999999999997
+        }
+    },
+    {
+        "candidate": "resume3.txt",
+        "feature_contributions": {
+            "Semantic_Score": -13.743333333333354,
+            "Skill_Score": -29.827333333333346,
+            "Experience_Score": -46.00000000000001,
+            "Certification_Score": -0.8000000000000025,
+            "Project_Score": -1.400000000000004
+        }
+    },
+    {
+        "candidate": "resume7.docx",
+        "feature_contributions": {
+            "Semantic_Score": -31.75333333333335,
+            "Skill_Score": -29.82733333333333,
+            "Experience_Score": -6.000000000000009,
+            "Certification_Score": -0.8000000000000167,
+            "Project_Score": -4.400000000000007
+        }
+    },
+    {
+        "candidate": "resume11.pdf",
+        "feature_contributions": {
+            "Semantic_Score": -25.473333333333294,
+            "Skill_Score": -29.827333333333314,
+            "Experience_Score": -46.0,
+            "Certification_Score": -0.8000000000000069,
+            "Project_Score": 1.5999999999999908
+        }
+    }
+]

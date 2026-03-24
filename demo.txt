@@ -1,0 +1,19 @@
+to start venv : py -3.10 -m venv venv
+to activate : venv\Scripts\activate
+to install requirement : pip install -r requirements.txt
+then run the main.py
+
+
+
+pip freeze > requirements.txt
+
+
+to run semantic_pipeline : python -m pipelines.semantic_pipeline
+to run intelligence_pipeline : python -m pipelines.intelligence_pipeline
+to run ranking_pipeline : python -m pipelines.ranking_pipeline
+
+"C:\Users\gokul\AppData\Local\Programs\Ollama\ollama.exe" serve
+ollama serve
+stop ollama :   taskkill /IM ollama.exe /F
+
+netstat -ano | findstr 11434
