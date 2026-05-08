@@ -55,15 +55,7 @@ def extract_experience(text: str):
         end = datetime(int(m[1]), 12, 31)
         ranges.append((start, end))
 
-    print("\n--- DEBUG EXPERIENCE EXTRACTION ---")
-    print("Detected text snippet:")
-    print(text[:500])   # first 500 characters
-
-    print("\nMonth-Year → Current matches:", re.findall(p1, text))
-    print("Month-Year → Month-Year matches:", re.findall(p2, text))
-    print("Year → Current matches:", re.findall(p3, text))
-    print("Year → Year matches:", re.findall(p4, text))
-
+    
     if not ranges:
         return 0
 

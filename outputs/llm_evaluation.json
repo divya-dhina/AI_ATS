@@ -1,61 +1,457 @@
 [
     {
-        "candidate": "resume1.txt",
-        "match_level": "High",
+        "candidate": "Akilan_English_Teacher_Resume.docx",
+        "match_level": "Low",
         "strengths": [
-            "spring boot",
-            "rest api",
-            "microservices",
-            "postgresql"
+            "Experience: 10.3 years",
+            "Certifications: google certified educator level 1 \u2014 google for education, teaching english to speakers of other languages (tesol) \u2014 british council certified"
         ],
         "weaknesses": [
-            "java"
+            "No direct experience with Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
         ],
-        "reasoning": "The candidate has strong experience in Spring Boot, REST APIs, and microservices architecture, which aligns well with the job description. However, the candidate's experience in Java is not explicitly mentioned, which is a key requirement.",
-        "recommendation": "Interview"
+        "reasoning": "The Final Score is reasonable because the candidate's skills do not directly match the job requirements. Although they have significant experience and certifications, they lack specific expertise in the required technologies.",
+        "recommendation": "Reject"
     },
     {
-        "candidate": "resume10.pdf",
-        "match_level": "Medium",
+        "candidate": "Akshaya Thulasi Resume (1).pdf",
+        "match_level": "Low",
         "strengths": [
-            "postgresql",
-            "rest"
+            "python",
+            "machine learning"
         ],
         "weaknesses": [
-            "java",
-            "spring boot",
-            "microservices architecture"
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
         ],
-        "reasoning": "The candidate has some relevant skills such as PostgreSQL and REST APIs, but lacks experience in Java, Spring Boot, and microservices architecture, which are crucial for the position. The candidate's experience in AWS and Django is not directly applicable to the job.",
+        "reasoning": "The Final Score of 20.01 is reasonable because the candidate lacks experience and skills in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Amala_ML_Engineer_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "machine learning",
+            "deep learning",
+            "pandas"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate has strong skills in machine learning, deep learning, and pandas, which are relevant to their experience. However, they lack experience and skills in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are crucial for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Ananda_HR_Executive_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "Experience: 5.3 years"
+        ],
+        "weaknesses": [
+            "Semantic Score: 23.06",
+            "Lack of experience with Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate has some general programming experience, but lacks specific skills required for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "architect.docx",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Spring Boot",
+            "No certifications"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate's skills do not align well with the job description. Although they have 5 years of experience, it does not seem to be focused on Java, Spring Boot, and REST APIs, which are key requirements for this position.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "ARUN KUMAR (1).docx",
+        "match_level": "Medium",
+        "strengths": [
+            "java",
+            "spring boot"
+        ],
+        "weaknesses": [
+            "machine learning",
+            "cloud"
+        ],
+        "reasoning": "The candidate has relevant skills in Java and Spring Boot, which align with the job description. However, their experience in machine learning and cloud platforms is not explicitly mentioned, which affects their overall score.",
         "recommendation": "Consider"
     },
     {
-        "candidate": "resume11.pdf",
+        "candidate": "ARUN KUMAR.docx",
+        "match_level": "Medium",
+        "strengths": [
+            "java",
+            "spring boot"
+        ],
+        "weaknesses": [
+            "machine learning",
+            "cloud"
+        ],
+        "reasoning": "The candidate has a strong background in Java and Spring Boot, which aligns with the job requirements. However, their experience in machine learning and cloud platforms is limited, which affects their overall score.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "Candidate Name_ RAHUL M.docx",
         "match_level": "Low",
         "strengths": [],
         "weaknesses": [
             "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
         ],
-        "reasoning": "The candidate's skills and experience do not align with the job requirements. The candidate has no experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential skills for the Backend Developer position.",
+        "reasoning": "The Final Score is low because the candidate lacks significant experience in the required technologies. Although they have some skills, it's not enough to justify a higher score.",
         "recommendation": "Reject"
     },
     {
-        "candidate": "resume12.pdf",
-        "match_level": "Medium",
+        "candidate": "Career_Guidance_Expert_Resume (1).docx",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 18.44 indicates that the candidate's skills and experience do not align well with the job requirements. Although they have extensive experience in career counseling, it is not directly applicable to the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "CV .pdf",
+        "match_level": "Low",
         "strengths": [
-            "spring boot",
+            "cloud",
+            "sql"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 29.06 is reasonable because the candidate lacks experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential skills for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Data_Analyst_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "pandas",
+            "numpy",
+            "python"
+        ],
+        "weaknesses": [
+            "sql",
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL",
+            "cloud platforms"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate's skills are not directly relevant to the job description, which requires strong experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL. The candidate's skills are more focused on data analysis and manipulation.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Devi_Logistics_Executive_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "logistics & supply chain management \u2014 coursera / rutgers university",
+            "gst & e-way bill compliance \u2014 udemy certification",
+            "certified supply chain professional (cscp) \u2014 apics foundations"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL",
+            "cloud platforms"
+        ],
+        "reasoning": "The Final Score of 13.41 is reasonable based on the candidate's skills, but it seems that the candidate lacks direct experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for a Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Dhivakar_Resume_April_2025.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "rest api",
             "java"
         ],
         "weaknesses": [
-            "missing experience with REST APIs",
-            "missing experience with microservices architecture"
+            "machine learning",
+            "cloud",
+            "PostgreSQL"
         ],
-        "reasoning": "The candidate has relevant experience in Java and Spring Boot, which aligns with the job description. However, they lack experience with REST APIs and microservices architecture, which are key requirements for the position. Additionally, they do not have direct experience with PostgreSQL, although they have experience with MySQL.",
-        "recommendation": "Interview"
+        "reasoning": "The Final Score of 31.25 indicates that the candidate lacks significant experience and skills in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role.",
+        "recommendation": "Reject"
     },
     {
-        "candidate": "resume13.pdf",
+        "candidate": "DOC-20260331-WA0013..pdf",
+        "match_level": "Low",
+        "strengths": [
+            "python"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 10.77 is reasonable because the candidate's skills, such as Python, do not align with the job requirements, which specifically mention Java and related technologies.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Document from ....pdf",
         "match_level": "Medium",
+        "strengths": [
+            "cloud"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 27.33 is reasonable because the candidate has some relevant skills, specifically 'cloud', but lacks experience and certifications in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "Document from \ud83d\ude0a (1) (1) (1).pdf",
+        "match_level": "Low",
+        "strengths": [
+            "cloud"
+        ],
+        "weaknesses": [
+            "python",
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The candidate's Final Score is 18.27, which indicates a low match level. This is reasonable given the significant skills gap between what the candidate has (cloud and python) and what the job requires (Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL).",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Evanjelin_Backend_Developer_Resume.docx",
+        "match_level": "Medium",
+        "strengths": [
+            "rest api",
+            "java",
+            "spring boot",
+            "postgresql"
+        ],
+        "weaknesses": [
+            "javascript",
+            "python",
+            "node.js",
+            "mysql"
+        ],
+        "reasoning": "The Final Score of 51.76 is reasonable because the candidate has relevant skills in Java, Spring Boot, and PostgreSQL, which are essential for the job description. However, they lack experience with cloud platforms, which is a plus mentioned in the job description.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "f1_20260401_133936_0000.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "python"
+        ],
+        "weaknesses": [
+            "c++",
+            "cloud"
+        ],
+        "reasoning": "The Final Score of 25.93 is reasonable because the candidate lacks experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential skills for the Backend Developer role. Although they have some relevant programming languages like JavaScript and Python, it's not enough to compensate for the missing core skills.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Ghouse Basha Resume.pdf",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL",
+            "No cloud platform experience"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate lacks essential skills for the Backend Developer position, specifically those mentioned in the job description. The candidate's skills are mostly focused on frontend technologies like CSS, JavaScript, HTML, and React, which do not align with the requirements of the role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Harish_Sales_Executive_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "aws",
+            "cloud"
+        ],
+        "weaknesses": [
+            "react (not relevant to job description)",
+            "Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL experience missing"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate's skills do not align well with the job requirements. Although they have some cloud-related skills, they lack the core technical skills required for a Backend Developer position.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Harsha_resume.pdf",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of Java and Spring Boot experience",
+            "No experience with REST APIs, microservices architecture, or PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate's skills do not match the job requirements. The candidate has no experience in Java, Spring Boot, REST APIs, microservices architecture, or PostgreSQL, which are essential for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Hursh Desai - Resume.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "machine learning",
+            "numpy",
+            "pytorch",
+            "python",
+            "sql"
+        ],
+        "weaknesses": [
+            "lack of direct experience with Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate has some relevant skills like machine learning, numpy, pytorch, python, and sql. However, they lack direct experience in the required technologies for the job, which significantly impacts their overall score.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "JAYAKUMAR RESUME.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "cloud"
+        ],
+        "weaknesses": [
+            "Python instead of Java",
+            "No experience with Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate lacks essential skills for the Backend Developer role. Although they have some relevant skills like cloud, it's not enough to compensate for their lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Junior_QA_Specialist_Resume (1).docx",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is low because the candidate lacks significant experience in the required technologies for the Backend Developer role. Although they have some skills, it's not enough to justify a higher match level.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Karthik_MVP_Developer_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "ci/cd",
+            "cloud"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 40.4 is reasonable because while Karthik has some relevant skills like ci/cd and cloud, he lacks experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are crucial for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Kavitha S 2025 Resume.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "machine learning",
+            "javascript",
+            "python"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 20.4 is reasonable because the candidate lacks key skills required for the Backend Developer role, specifically Java, Spring Boot, and experience with PostgreSQL. While they have some relevant skills in machine learning, JavaScript, and Python, these do not compensate for the missing skills.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Kavitha_PR_Specialist_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "social media marketing"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL",
+            "cloud platforms"
+        ],
+        "reasoning": "The Final Score of 13.34 is reasonable because the candidate lacks significant experience and skills in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for a Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "kaviya_resume.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "html",
+            "css",
+            "javascript",
+            "python"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL",
+            "cloud platforms"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate lacks experience and skills in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role. Although they have some general programming skills, they do not demonstrate expertise in the specific technologies required by the job.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Marketing_Manager_Resume.docx",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 14.4 is reasonable because the candidate lacks experience and certifications in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential skills for a Backend Developer.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "MEENA LAKSHMI.docx",
+        "match_level": "Low",
+        "strengths": [
+            "sql"
+        ],
+        "weaknesses": [
+            "No experience with Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL",
+            "No certifications"
+        ],
+        "reasoning": "The Final Score of 13.47 is reasonable because it reflects the candidate's lack of relevant skills and experience in the required technologies. The Semantic Score of 23.67 suggests that the candidate has some basic understanding of SQL, but this does not compensate for the significant gaps in their profile.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "meena.docx",
+        "match_level": "Low",
         "strengths": [
             "java",
             "sql"
@@ -66,106 +462,249 @@
             "microservices architecture",
             "PostgreSQL"
         ],
-        "reasoning": "The candidate has some relevant experience and skills, but lacks specific expertise in the required technologies, such as Spring Boot, REST APIs, and microservices architecture. Their experience with Java and SQL is a plus, but they may require additional training or guidance to excel in this role.",
-        "recommendation": "Consider"
-    },
-    {
-        "candidate": "resume14.pdf",
-        "match_level": "High",
-        "strengths": [
-            "Java",
-            "Spring Boot",
-            "REST APIs",
-            "microservices architecture",
-            "PostgreSQL"
-        ],
-        "weaknesses": [],
-        "reasoning": "The candidate has strong experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which aligns well with the job description. Additionally, they have experience with cloud platforms, which is a plus.",
-        "recommendation": "Interview"
-    },
-    {
-        "candidate": "resume15.pdf",
-        "match_level": "Medium",
-        "strengths": [
-            "spring boot",
-            "cloud"
-        ],
-        "weaknesses": [
-            "java",
-            "microservices architecture",
-            "PostgreSQL"
-        ],
-        "reasoning": "The candidate has some relevant skills such as Spring Boot and cloud experience, but lacks strong experience in Java and microservices architecture. Additionally, there is no mention of PostgreSQL experience. However, the candidate's overall score is not extremely low, hence the medium match level.",
-        "recommendation": "Consider"
-    },
-    {
-        "candidate": "resume2.txt",
-        "match_level": "Medium",
-        "strengths": [
-            "Spring Boot",
-            "REST",
-            "Java"
-        ],
-        "weaknesses": [
-            "No experience with microservices architecture",
-            "No experience with PostgreSQL"
-        ],
-        "reasoning": "The candidate has relevant experience with Spring Boot and REST, but lacks experience with microservices architecture and PostgreSQL, which are key requirements for the job. Their overall match score is moderate, indicating a decent fit but not a perfect match.",
-        "recommendation": "Consider"
-    },
-    {
-        "candidate": "resume3.txt",
-        "match_level": "Low",
-        "strengths": [],
-        "weaknesses": [
-            "Java",
-            "Spring Boot",
-            "REST APIs",
-            "microservices architecture",
-            "PostgreSQL"
-        ],
-        "reasoning": "The candidate's skills and experience do not align with the job requirements. They have experience in Python and machine learning, but not in Java, Spring Boot, or related technologies. This mismatch makes it difficult to assess their ability to perform the job.",
+        "reasoning": "The Final Score of 26.44 is reasonable because the candidate has some relevant skills like Java and SQL, but lacks experience in Spring Boot, REST APIs, microservices architecture, and PostgreSQL which are crucial for the Backend Developer role.",
         "recommendation": "Reject"
     },
     {
-        "candidate": "resume4.pdf",
+        "candidate": "Mobile_App_Developer_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "rest api",
+            "java"
+        ],
+        "weaknesses": [
+            "lack of experience in Spring Boot",
+            "no mention of microservices architecture or PostgreSQL"
+        ],
+        "reasoning": "The candidate's Final Score is low because they lack relevant experience in Spring Boot, REST APIs, and microservices architecture. Although they have some Java skills, it's not enough to compensate for the missing expertise.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Nandhini Devi(AI Engineer).docx",
         "match_level": "Medium",
         "strengths": [
-            "javascript",
-            "rest",
-            "css"
+            "java",
+            "spring",
+            "microservices",
+            "postgresql"
+        ],
+        "weaknesses": [
+            "css",
+            "python",
+            "react",
+            "cloud"
+        ],
+        "reasoning": "The Final Score of 53.06 is reasonable because the candidate has relevant skills in Java, Spring, and microservices architecture, which are essential for the Backend Developer role. However, they lack experience with cloud platforms and have some mismatched skills like CSS, Python, and React.",
+        "recommendation": "Consider"
+    },
+    {
+        "candidate": "NIVETHA R.docx",
+        "match_level": "Low",
+        "strengths": [
+            "java",
+            "sql"
+        ],
+        "weaknesses": [
+            "mysql (not PostgreSQL)",
+            "python (not Spring Boot)"
+        ],
+        "reasoning": "The Final Score of 21.75 is reasonable because the candidate has some relevant skills like Java and SQL, but lacks experience in Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are crucial for the job.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "OmkarResume.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "postgresql",
+            "microservices",
+            "rest"
+        ],
+        "weaknesses": [
+            "java",
+            "spring boot",
+            "cloud platforms"
+        ],
+        "reasoning": "The candidate has some relevant skills like PostgreSQL, microservices, and REST APIs. However, they lack experience in Java and Spring Boot, which are essential for the job description. Additionally, their cloud platform experience is limited to Azure and GCP, whereas the job requires experience with multiple cloud platforms.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "PRIYA S.docx",
+        "match_level": "Low",
+        "strengths": [
+            "python",
+            "sql"
+        ],
+        "weaknesses": [
+            "java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 27.81 is reasonable because the candidate has some relevant skills like Python and SQL, but lacks experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are crucial for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "PROGRAM_ANALYST_RESUME.docx",
+        "match_level": "Low",
+        "strengths": [
+            "java"
+        ],
+        "weaknesses": [
+            "no experience in Spring Boot, REST APIs, microservices architecture, and PostgreSQL",
+            "no cloud platform experience"
+        ],
+        "reasoning": "The candidate's Final Score is low because they lack significant experience in the required technologies for the Backend Developer role. Although they have some programming skills, their expertise does not align with the job description.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Rajesh Kumar RESUME.docx",
+        "match_level": "Low",
+        "strengths": [
+            "machine learning",
+            "pytorch",
+            "tensorflow",
+            "python"
         ],
         "weaknesses": [
             "Java",
             "Spring Boot",
-            "PostgreSQL",
-            "cloud platforms"
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
         ],
-        "reasoning": "The candidate has a strong foundation in web development with skills in HTML, CSS, and JavaScript. However, they lack experience in Java, Spring Boot, and PostgreSQL, which are essential for the Backend Developer role. Additionally, there is no mention of cloud platforms, which is a plus in the job description.",
-        "recommendation": "Consider"
+        "reasoning": "The Final Score of 34.7 is reasonable because the candidate has strong skills in machine learning, deep learning, and cloud platforms, but lacks experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role.",
+        "recommendation": "Reject"
     },
     {
-        "candidate": "resume5.pdf",
-        "match_level": "Medium",
+        "candidate": "Rajesh_Systems_Engineer_Resume.docx",
+        "match_level": "Low",
         "strengths": [
-            "postgresql"
+            "jenkins",
+            "python",
+            "docker",
+            "aws",
+            "ci/cd",
+            "cloud"
         ],
         "weaknesses": [
             "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 33.52 is reasonable because the candidate lacks key skills required for the Backend Developer position, specifically Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL. While they have some relevant experience with cloud platforms, it's not enough to compensate for the missing technical skills.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "RAMYADEVI P M.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "sql",
+            "postgresql"
+        ],
+        "weaknesses": [
+            "machine learning",
+            "java",
             "Spring Boot",
             "REST APIs",
             "microservices architecture"
         ],
-        "reasoning": "The candidate has some relevant skills like PostgreSQL, but lacks experience in Java, Spring Boot, REST APIs, and microservices architecture, which are crucial for the Backend Developer role. The candidate's experience and certifications are not directly related to the job requirements.",
-        "recommendation": "Consider"
+        "reasoning": "The Final Score of 25.12 is reasonable because the candidate lacks experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential skills for the Backend Developer role. Although they have some relevant skills like SQL and PostgreSQL, it's not enough to compensate for the missing expertise.",
+        "recommendation": "Reject"
     },
     {
-        "candidate": "resume6.pdf",
-        "match_level": "Medium",
+        "candidate": "RAVEENA_G_RESUME  (1).pdf",
+        "match_level": "Low",
         "strengths": [
-            "Python",
-            "Flask",
-            "SQL"
+            "UX design process from user research to usability testing"
+        ],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL",
+            "No direct experience with cloud platforms"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate lacks significant experience in the required technologies for the Backend Developer role. While they have a certification in UX design, it's not directly applicable to the job requirements.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Resume (1).pdf",
+        "match_level": "Low",
+        "strengths": [
+            "rest api",
+            "html"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The candidate's Final Score is 30.39, which indicates a low match level. This is because the candidate lacks experience and skills in Java, Spring Boot, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Resume (2).pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "java"
+        ],
+        "weaknesses": [
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The candidate's Final Score is 20.56, which indicates a low match level. This is because the candidate lacks significant experience and skills in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "resume (3).pdf",
+        "match_level": "Low",
+        "strengths": [
+            "java",
+            "javascript"
+        ],
+        "weaknesses": [
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 21.92 is reasonable because the candidate has some relevant skills like Java, but lacks key experience and skills required for the Backend Developer role, such as Spring Boot, REST APIs, microservices architecture, and PostgreSQL.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "resume (4).pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "python"
+        ],
+        "weaknesses": [
+            "lack of direct experience with Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The candidate's Final Score is 35.02, which indicates a low match level. Although the candidate has some relevant skills like JavaScript and Python, they lack direct experience in the required technologies for the Backend Developer position.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Resume-1 Jaswant - Simple one.pdf",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate's skills do not align with the job requirements. The candidate has no experience in the required technologies, which makes it difficult for them to perform the job duties.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "resume.rev.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "python"
         ],
         "weaknesses": [
             "Java",
@@ -174,13 +713,112 @@
             "microservices architecture",
             "PostgreSQL"
         ],
-        "reasoning": "The candidate has some relevant skills such as Python, Flask, and SQL, but lacks experience in Java, Spring Boot, REST APIs, and microservices architecture, which are crucial for the Backend Developer role. Additionally, there is no mention of PostgreSQL or cloud platforms, which are also important for the position.",
-        "recommendation": "Consider"
+        "reasoning": "The Final Score of 25.67 is reasonable because the candidate lacks experience and skills in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role. Although they have some programming skills with JavaScript and Python, it's not enough to compensate for the missing expertise.",
+        "recommendation": "Reject"
     },
     {
-        "candidate": "resume7.docx",
-        "match_level": "Medium",
+        "candidate": "resume1 (3).pdf",
+        "match_level": "Low",
         "strengths": [
+            "rest api",
+            "java",
+            "spring boot"
+        ],
+        "weaknesses": [
+            "lack of experience",
+            "missing skills: Spring, microservices architecture, PostgreSQL"
+        ],
+        "reasoning": "The candidate's Final Score is 32.31, which indicates a low match level. Although the candidate has some relevant skills such as REST API, Java, and Spring Boot, they lack significant experience in these areas. Additionally, their profile does not explicitly show expertise in microservices architecture, PostgreSQL, or other required technologies.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "resume2.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "java"
+        ],
+        "weaknesses": [
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score of 24.15 is reasonable because the candidate has some relevant skills like Java and JavaScript, but lacks experience in Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are crucial for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "resume3.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "aws",
+            "cloud"
+        ],
+        "weaknesses": [
+            "python",
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate lacks experience and certifications in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are crucial skills for the Backend Developer role. Although they have some cloud-related skills, it's not enough to compensate for the missing core skills.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "RESUME_DEVELOPER.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "rest api",
+            "javascript"
+        ],
+        "weaknesses": [
+            "Java",
+            "Spring Boot",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate lacks experience in Java, Spring Boot, and microservices architecture, which are crucial skills for the Backend Developer role. Although they have some relevant skills like REST API and JavaScript, it's not enough to compensate for the missing expertise.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Resume_Roshini.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "rest api",
+            "python"
+        ],
+        "weaknesses": [
+            "java",
+            "spring boot",
+            "microservices architecture",
+            "PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate has some relevant skills like REST API, but lacks experience in Java, Spring Boot, and microservices architecture, which are crucial for the Backend Developer role. Additionally, there is no mention of PostgreSQL or cloud platforms, which are also important requirements.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Roshini_JK_Resume_Pickyourtrail_Updated.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "python",
+            "react"
+        ],
+        "weaknesses": [
+            "lack of Java experience",
+            "no Spring Boot or REST APIs skills",
+            "no microservices architecture or PostgreSQL experience"
+        ],
+        "reasoning": "The Final Score is reasonable based on the candidate's skills, which do not align with the job description. The candidate lacks experience in Java, Spring Boot, and related technologies, making it challenging for them to perform the required tasks.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Saveetha_Analyst_Resume.docx",
+        "match_level": "Low",
+        "strengths": [
+            "pandas",
+            "numpy",
             "python",
             "sql"
         ],
@@ -188,45 +826,168 @@
             "Java",
             "Spring Boot",
             "REST APIs",
-            "microservices architecture"
+            "microservices architecture",
+            "PostgreSQL"
         ],
-        "reasoning": "The candidate has some relevant skills such as Python and SQL, but lacks experience in Java, Spring Boot, and REST APIs, which are crucial for the Backend Developer role. Additionally, the candidate does not have experience with PostgreSQL, which is a requirement for the job.",
+        "reasoning": "The Final Score of 15.18 is reasonable because the candidate's skills are mostly focused on data analysis and programming languages, which do not directly match the job requirements for a Backend Developer. The lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL significantly impacts the overall score.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Selvam_Business_Analyst_Resume.docx",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate's skills do not align with the job requirements. The candidate has no relevant experience or certifications in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential for the Backend Developer role.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Soumiya V S resume info IBM.pdf",
+        "match_level": "Medium",
+        "strengths": [
+            "java",
+            "spring boot"
+        ],
+        "weaknesses": [
+            "c++",
+            "python",
+            "deep learning"
+        ],
+        "reasoning": "The Final Score of 34.13 is reasonable because it takes into account the candidate's experience in Java and Spring Boot, which are key skills for the Backend Developer role. However, the candidate lacks direct experience with REST APIs, microservices architecture, and PostgreSQL, which are essential for this position.",
         "recommendation": "Consider"
     },
     {
-        "candidate": "resume8.pdf",
-        "match_level": "High",
+        "candidate": "TEST ENGINEER RESUME.docx",
+        "match_level": "Low",
         "strengths": [
-            "Java",
-            "Spring Boot",
-            "REST APIs",
-            "PostgreSQL"
+            "python",
+            "java"
         ],
         "weaknesses": [
-            "C++",
-            "JavaScript",
-            "Django",
-            "Python",
-            "MySQL"
+            "sql (missing PostgreSQL experience)",
+            "0 years of experience"
         ],
-        "reasoning": "The candidate has strong experience in Java, Spring Boot, and REST APIs, which aligns well with the job description. Additionally, they have experience with PostgreSQL, which is a requirement. However, they lack experience with microservices architecture, which is a key aspect of the job.",
-        "recommendation": "Interview"
+        "reasoning": "The candidate's Final Score is low because they lack significant experience in the required technologies, specifically Spring Boot and microservices architecture. Although they have some relevant skills like Java and Python, their overall score reflects a mismatch with the job requirements.",
+        "recommendation": "Reject"
     },
     {
-        "candidate": "resume9.pdf",
-        "match_level": "High",
+        "candidate": "tester.docx",
+        "match_level": "Low",
         "strengths": [
+            "python",
+            "java"
+        ],
+        "weaknesses": [
+            "lack of experience with Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate's skills do not align well with the job requirements. Although they have some programming experience in Java, it does not seem to be specific to the required technologies.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Untitled document.docx",
+        "match_level": "Low",
+        "strengths": [
+            "jenkins",
+            "python",
+            "docker"
+        ],
+        "weaknesses": [
             "Java",
             "Spring Boot",
             "REST APIs",
+            "microservices architecture",
             "PostgreSQL"
         ],
-        "weaknesses": [
-            "Django",
-            "Python",
-            "MySQL"
+        "reasoning": "The Final Score is low because the candidate lacks experience and certifications in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL, which are essential skills for the Backend Developer role. Although they have some relevant skills like Jenkins, Python, Docker, and AWS, these do not compensate for the significant gaps in the required technical expertise.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Vansh_Pathak_Resume.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "java",
+            "spring",
+            "spring boot"
         ],
-        "reasoning": "The candidate's experience and skills align well with the job description, particularly in Java, Spring Boot, and PostgreSQL. However, the presence of Django, Python, and MySQL skills may indicate a broader range of expertise, which could be beneficial in a microservices architecture.",
-        "recommendation": "Interview"
+        "weaknesses": [
+            "lack of experience in REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The candidate's Final Score is 34.12, which indicates a low match level due to the lack of relevant skills and experience in key areas such as REST APIs, microservices architecture, and PostgreSQL.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Vidhya Varshini b Resume.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "java",
+            "postgresql"
+        ],
+        "weaknesses": [
+            "tensorflow",
+            "machine learning",
+            "deep learning",
+            "react",
+            "node.js",
+            "css",
+            "javascript",
+            "mysql"
+        ],
+        "reasoning": "The Final Score of 27.91 is reasonable because the candidate has some relevant skills like Java and PostgreSQL, but lacks experience in Spring Boot, REST APIs, microservices architecture, which are crucial for the job. The candidate's skills also lean more towards frontend development and machine learning, rather than backend development.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "VimaleshCT_Resume.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "javascript",
+            "postgresql"
+        ],
+        "weaknesses": [
+            "c++",
+            "css",
+            "react",
+            "node.js",
+            "django",
+            "mysql",
+            "pandas"
+        ],
+        "reasoning": "The Final Score of 31.37 indicates that the candidate's skills do not strongly match the job requirements. Although they have some relevant experience with Java, Spring Boot, and PostgreSQL, their overall skillset is more diverse and does not demonstrate a strong focus on the required technologies.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "Vishwa_CV.pdf",
+        "match_level": "Low",
+        "strengths": [
+            "machine learning",
+            "python",
+            "sql"
+        ],
+        "weaknesses": [
+            "nlp",
+            "mysql (missing experience in PostgreSQL)"
+        ],
+        "reasoning": "The Final Score of 39.37 is reasonable because the candidate has some relevant skills like Java, Spring Boot, and REST APIs, but lacks experience with microservices architecture and PostgreSQL, which are crucial for the job.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "_DIVYA PRIYA.docx",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because the candidate lacks significant skills required for the job. The Semantic Score is low due to the mismatch between the candidate's skills and the job requirements.",
+        "recommendation": "Reject"
+    },
+    {
+        "candidate": "_KEERTHANA S.docx",
+        "match_level": "Low",
+        "strengths": [],
+        "weaknesses": [
+            "Lack of experience in Java, Spring Boot, REST APIs, microservices architecture, and PostgreSQL"
+        ],
+        "reasoning": "The Final Score is reasonable because it reflects the candidate's limited skills and lack of experience in the required technologies. The low score indicates that the candidate does not meet the minimum requirements for the job.",
+        "recommendation": "Reject"
     }
 ]

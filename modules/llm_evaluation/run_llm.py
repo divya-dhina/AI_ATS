@@ -6,7 +6,12 @@ def run_llm_analysis(candidates, job_description, ranking_df):
 
     results = []
 
+    for idx, candidate in enumerate(candidates, start=1):
+        candidate["index"] = idx
+
     def process_candidate(candidate):
+
+        print(f"\n🔍 Evaluating Resume {candidate['index']}: {candidate['candidate']}")
 
         name = candidate["candidate"]
         row = ranking_df[ranking_df["Resume"] == name]
@@ -24,7 +29,7 @@ def run_llm_analysis(candidates, job_description, ranking_df):
             final_score
         )
 
-    with ThreadPoolExecutor(max_workers=3) as executor:
+    with ThreadPoolExecutor(max_workers=2) as executor:
         outputs = executor.map(process_candidate, candidates)
 
     for result in outputs:

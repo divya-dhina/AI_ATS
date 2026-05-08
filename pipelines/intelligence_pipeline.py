@@ -1,5 +1,6 @@
 import os
 import json
+import sys
 
 from core.file_loader import load_resumes
 from modules.skill_intelligence.skill_pipeline import run_skill_intelligence
@@ -7,6 +8,8 @@ from modules.skill_intelligence.experience_extractor import extract_experience
 from modules.skill_intelligence.certification_extractor import extract_certifications
 from modules.skill_intelligence.project_extractor import extract_projects
 
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 

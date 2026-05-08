@@ -1,0 +1,3 @@
+We are looking for a Frontend Developer with strong experience in HTML, CSS, JavaScript, and React.js.
+The candidate should be skilled in building responsive and user-friendly web interfaces with modern UI/UX practices.
+Experience with API integration and state management (Redux/Context API) is a plus.

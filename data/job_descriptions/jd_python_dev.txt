@@ -1,0 +1,4 @@
+We are looking for a Python Developer with strong experience in Python programming, data structures, and object-oriented design.
+The candidate should have hands-on experience in building backend applications using frameworks like Flask or Django.
+Experience with REST APIs, databases (SQL/NoSQL), and data processing is highly preferred.
+Familiarity with version control systems like Git and basic knowledge of cloud platforms is a plus.

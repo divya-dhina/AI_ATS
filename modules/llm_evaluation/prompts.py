@@ -15,9 +15,16 @@ def build_prompt(candidate, job_description, semantic_score, final_score):
     - "reasoning" must contain 2–3 sentences explaining the decision.
     - "strengths" must list relevant candidate skills.
     - "weaknesses" must list missing or weak skills.
-    - "match_level" must be one of: High, Medium, Low.
-    - "recommendation" must be one of: Interview, Consider, Reject.
-
+    -DO NOT override the Final Score decision logic.
+    - "match_level" MUST be derived ONLY from Final Score:
+        - >= 60 -> High
+        - 40–59 -> Medium
+        - < 40 -> Low
+    - "recommendation" MUST follow:
+        - High -> Interview
+        - Medium -> Consider
+        - Low -> Reject
+    
     JOB DESCRIPTION:
     {job_description}
 
@@ -30,6 +37,13 @@ def build_prompt(candidate, job_description, semantic_score, final_score):
     MATCH SCORES
     Semantic Score: {semantic_score}
     Final Score: {final_score}
+
+    TASK:
+    1. Use Final Score to assign match_level
+    2. Justify why the Final Score is reasonable based on skills
+    3. DO NOT change decision logic
+    4. Focus on explanation, not re-scoring
+
 
     Return JSON in this exact format:
 

@@ -17,3 +17,123 @@ ollama serve
 stop ollama :   taskkill /IM ollama.exe /F
 
 netstat -ano | findstr 11434
+
+to run backend:      
+(venv) D:\recruitment_Ai_Systems>python -m uvicorn backend.main:app --reload
+
+to run frontend:
+(venv) D:\recruitment_Ai_Systems\ai-recruitment-ui>npm run dev
+
+
+RECRUITMENT_AI_SYSTEMS
+---.vscode
+---ai-recuitment-ui
+    ---node_modules
+    ---public
+    ---src
+        ---components
+            ---Sidebar.jsx
+        ---pages
+            ---CandidateDetails.jsx
+            ---DariInsights.jsx
+            ---Dashboard.jsx
+            ---Ranking.jsx
+            ---Upload.jsx
+        ---services
+            ---api.js
+        ---App.jsx
+        ---index.css
+        ---main.jsx
+---backend
+    ---data
+        ---jod_descriptions
+        ---resumes
+    ---routes
+        ---insights.py
+        ---pipeline.py
+        ---results.py
+        ---upload.py
+    ---schemas
+    ---services
+        ---dari_service.py
+        ---llm_service.py
+        ---pipeline_service.py
+    ---main.py
+---config
+    ---settings.py
+---core
+    ---_init_.py
+    ---chunker.py
+    ---docx_reader.py
+    ---file_loader.py
+    ---ocr_reader.py
+    ---pdf_reader.py
+    ---txt_reader.py
+---data
+    ---job_descriptions
+    ---resumes
+---database
+    ---crud.py
+    ---db.py
+    ---insert_data.py
+    ---load_data.py
+    ---models.py
+---logs
+---models
+---modules
+    ---dari
+        ---clustering.py
+        ---insights.py
+        ---run_dari.py
+    ---explainability
+        ---shap_explainer.py
+    ---llm_evaluation
+        ---evaluator.py
+        ---prompts.py
+    ---ranking
+        ---_init_.py
+        ---scoring.py
+        ---shortlisting.py
+    ---semantic_matching
+        ---_intit_.py
+        ---embedder.py
+        ---similarity.py
+    ---skill_intelligence
+        ---_init_.py
+        ---certification_extractor.py
+        ---education_extractor.py
+        ---experience_extractor.py
+        ---project_extractor.py
+        ---skill_extractor.py
+        ---skill_normalizer.py
+        ---skill_pipeline.py
+        ---skill_scorer.py
+        ---skill_weights.py
+---node_modules
+---outputs
+    ---clustering_distribution.png
+    ---dari_insights.json
+    ---experience_distribution.png
+    ---final_ranking.csv
+    ---llm_evaluation.json
+    ---semantic_ranking.csv
+    ---shap_explanations.json
+    ---skill_distribution.png
+    ---skill_profiles.json
+---pipelines
+    ---_init_.py
+    ---full_pipeline.py
+    ---intelligence_pipeline.py
+    ---ranking_pipeline.py
+    ---semantic_pipeline.py
+---tests
+    ---test_pdf_parsing.py
+---utils
+    ---load_jd.py
+---venv
+---.env
+---demo.txt
+---readme.md
+---requirements.txt
+
+

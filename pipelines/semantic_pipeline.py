@@ -1,10 +1,14 @@
 import os
+import sys
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
 from modules.semantic_matching.embedder import SBERTEmbedder
 from core.preprocess import preprocess_text
 from core.file_loader import load_resumes
+
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 print("RUNNING MAIN FROM:", __file__)
 
@@ -13,10 +17,7 @@ MATCH_THRESHOLD = 55.0
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-JD_PATH = os.path.join(
-    BASE_DIR, "..", "data", "job_descriptions", "jd_backend_dev.txt"
-)
-
+JD_PATH = os.path.join(BASE_DIR, "..", "data", "job_descriptions", "jd.txt")
 RESUME_DIR = os.path.join(
     BASE_DIR, "..", "data", "resumes"
 )

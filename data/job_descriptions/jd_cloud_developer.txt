@@ -1,0 +1,3 @@
+We are looking for a Cloud Developer with strong experience in cloud platforms such as AWS, Azure, or Google Cloud.
+The candidate should have hands-on experience in deploying, managing, and scaling cloud-based applications and services.
+Knowledge of CI/CD pipelines, containerization tools like Docker, and orchestration tools like Kubernetes is preferred.
