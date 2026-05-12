@@ -147,6 +147,7 @@ def main():
     # -------------------------
     df_to_insert = pd.DataFrame({
         "candidate_id": [candidate_map[r] for r in df["Resume"]],
+        "resume_name": df["Resume"],
         "semantic_score": df["Semantic_Score"],
         "skill_score": df["Skill_Score"],
         "experience_score": df["Experience_Score"],

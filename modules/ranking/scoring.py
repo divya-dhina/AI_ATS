@@ -15,7 +15,7 @@ def compute_skill_match(resume_skills, jd_skills):
     resume_relevance = len(matched) / len(resume_set)
 
     # combine both
-    score = (0.7 * jd_coverage + 0.3 * resume_relevance) * 100
+    score = (0.9 * jd_coverage + 0.1 * resume_relevance) * 100
 
     return round(score, 2)
 
@@ -29,7 +29,7 @@ def compute_certification_score(certifications):
         return 0
 
     # very small bonus
-    return min(len(certifications) * 2, 6)
+    return min(len(certifications) * 2, 10)
 
 def compute_project_score(projects):
 
@@ -50,10 +50,10 @@ def compute_project_score(projects):
     return min(score, 20)
 
 
-def compute_final_score(semantic_score, skill_score, exp_score, cert_score):
-    return (
-        0.5 * semantic_score +
-        0.2 * skill_score +
-        0.2 * exp_score +
-        0.1 * cert_score
-    )
+#def compute_final_score(semantic_score, skill_score, exp_score, cert_score):
+#   return (
+#      0.5 * semantic_score +
+#     0.2 * skill_score +
+#    0.2 * exp_score +
+#   0.1 * cert_score
+#)

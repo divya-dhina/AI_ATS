@@ -130,6 +130,7 @@ def insert_final_ranking(df):
         cursor.execute("""
             INSERT INTO final_ranking(
                 candidate_id,
+                resume_name,
                 semantic_score,
                 skill_score,
                 experience_score,
@@ -137,9 +138,10 @@ def insert_final_ranking(df):
                 project_score,
                 final_score,
                 is_shortlisted
-            ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s)
+            ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)
         """, (
             row["candidate_id"],
+            row["resume_name"],
             row["semantic_score"],
             row["skill_score"],
             row["experience_score"],

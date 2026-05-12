@@ -3,6 +3,7 @@ import json
 import sys
 
 from core.file_loader import load_resumes
+from modules.skill_intelligence.education_extractor import extract_education
 from modules.skill_intelligence.skill_pipeline import run_skill_intelligence
 from modules.skill_intelligence.experience_extractor import extract_experience
 from modules.skill_intelligence.certification_extractor import extract_certifications
@@ -37,10 +38,14 @@ def main():
         #project extraction
         projects = extract_projects(text)
 
+        # education extraction
+        education = extract_education(text)
+
         # add to result dictionary
         result["experience_years"] = experience_years
         result["certifications"] = certifications
         result["projects"] = projects
+        result["education"] = education
 
         all_profiles.append(result)
 

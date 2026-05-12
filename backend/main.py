@@ -22,3 +22,4 @@ app.include_router(insights.router, prefix="/insights", tags=["Insights"])
 app.include_router(auth.router, prefix="/auth", tags=["Auth"])
 
 app.mount("/outputs", StaticFiles(directory="outputs"), name="outputs")
+app.mount("/resumes", StaticFiles(directory="data/resumes"), name="resumes")# new line

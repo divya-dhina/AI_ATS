@@ -14,9 +14,15 @@ def shortlist_candidates(final_df, semantic_df, percentile=0.75):
     threshold = df["Final_Score"].quantile(percentile)
 
     # Apply strict conditions
-    shortlisted = df[
-        (df["Final_Score"] >= threshold) &
-        (df["Decision"] == "selected")
-    ]
+    #shortlisted = df[
+      #  (df["Final_Score"] >= threshold) &
+     #   (df["Decision"] == "selected")
+    #]
+    shortlisted = df[df["Decision"] == "selected"]
+
+    shortlisted = shortlisted.sort_values(
+        by="Final_Score",
+        ascending=False
+    )
 
     return shortlisted

@@ -225,7 +225,7 @@ function CandidateDetails() {
   const navigate = useNavigate();
   const [data, setData] = useState(null);
   const [scores, setScores] = useState(null);
-
+  const [showResume, setShowResume] = useState(false);
   useEffect(() => {
     const user = localStorage.getItem("user_id");
 
@@ -301,6 +301,31 @@ function CandidateDetails() {
           <p style={S.eyebrow}>HireOn · Candidate Profile</p>
           <h1 style={S.heading}>Candidate #{id}</h1>
         </div>
+
+        {data.resume_url && (
+          <button
+            onClick={() => window.open(data.resume_url, "_blank")}
+            style={{
+              background: "#1a2d4a",
+              color: "#4a90d9",
+              border: "1px solid #2a3a5a",
+              padding: "10px 18px",
+              borderRadius: "12px",
+              cursor: "pointer",
+              fontSize: "14px",
+              fontWeight: 500,
+              transition: "0.2s ease",
+            }}
+            onMouseEnter={(e) => {
+              e.currentTarget.style.background = "#22385c";
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.background = "#1a2d4a";
+            }}
+          >
+            View Resume
+        </button>
+        )}
       </div>
 
       {/* ── Score mini cards (from ranking) ── */}
@@ -310,7 +335,9 @@ function CandidateDetails() {
           <ScoreMiniCard label="Skill"         value={scores.skill_score}         max={100} />
           <ScoreMiniCard label="Experience"    value={scores.experience_score}    max={100} />
           <ScoreMiniCard label="Certification" value={scores.certification_score} max={100} />
+          <ScoreMiniCard label="Project"       value={scores.project_score}       max={100} />
           <ScoreMiniCard label="Final Score"   value={scores.final_score}         max={100} />
+
         </div>
       )}
 

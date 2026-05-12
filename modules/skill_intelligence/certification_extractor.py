@@ -9,15 +9,14 @@ def extract_certifications(text: str):
         r'.*udemy.*',
         r'.*edx.*',
         r'.*certified.*',
-        r'.*certification.*'
-        r'.*linkedin learning.*'
-        r'.*google cloud.*'
-        r'.*google.*'
-        r'.*microsoft learn.*'
-        r'.*microsoft.*'
-        r'.*aws.*'
-        r'.*oracle academy.*'
-        
+        r'.*certification.*',
+        r'.*linkedin learning.*',
+        r'.*google.*',
+        r'.*microsoft learn.*',
+        r'.*microsoft.*',
+        r'.*aws.*',
+        r'.*oracle academy.*',
+        r'.*NPTEL.*'   
 
     ]
 

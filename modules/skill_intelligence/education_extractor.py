@@ -5,7 +5,7 @@ nlp = spacy.load("en_core_web_sm")
 
 DEGREE_KEYWORDS = [
     "b.tech", "m.tech", "bachelor", "master",
-    "bsc", "msc", "phd", "mba", "b.e"
+    "bsc", "msc", "phd", "mba", "b.e" , "m.e"
 ]
 
 UNIVERSITY_HINTS = [

@@ -1,111 +1,49 @@
 {
     "summary": {
-        "total_candidates": 65,
-        "avg_experience": 4.4,
-        "top_skill": "python"
+        "total_candidates": 3,
+        "avg_experience": 3.33,
+        "top_skill": "cloud"
     },
     "skills_chart": {
         "labels": [
-            "python",
-            "sql",
-            "java",
-            "css",
             "cloud",
-            "javascript",
-            "html",
-            "react",
-            "machine learning",
-            "rest"
+            "spring",
+            "postgresql",
+            "java",
+            "rest",
+            "spring boot",
+            "sql",
+            "microservices",
+            "aws",
+            "python"
         ],
         "values": [
-            46,
-            25,
-            23,
-            21,
-            21,
-            18,
-            17,
-            17,
-            16,
-            16
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            2,
+            1
         ]
     },
     "experience_chart": {
-        "average": 4.4,
+        "average": 3.33,
         "min": 0,
-        "max": 11.9
+        "max": 5.0
     },
     "clusters": {
         "2": [
-            "Akilan_English_Teacher_Resume.docx",
-            "Ananda_HR_Executive_Resume.docx",
-            "architect.docx",
-            "Candidate Name_ RAHUL M.docx",
-            "Career_Guidance_Expert_Resume (1).docx",
-            "Devi_Logistics_Executive_Resume.docx",
-            "Junior_QA_Specialist_Resume (1).docx",
-            "Kavitha_PR_Specialist_Resume.docx",
-            "Marketing_Manager_Resume.docx",
-            "RAVEENA_G_RESUME  (1).pdf",
-            "_KEERTHANA S.docx"
-        ],
-        "1": [
-            "Akshaya Thulasi Resume (1).pdf",
-            "ARUN KUMAR (1).docx",
-            "ARUN KUMAR.docx",
-            "Dhivakar_Resume_April_2025.pdf",
-            "Evanjelin_Backend_Developer_Resume.docx",
-            "f1_20260401_133936_0000.pdf",
-            "Ghouse Basha Resume.pdf",
-            "Harish_Sales_Executive_Resume.docx",
-            "Karthik_MVP_Developer_Resume.docx",
-            "Kavitha S 2025 Resume.pdf",
-            "kaviya_resume.pdf",
-            "meena.docx",
-            "Nandhini Devi(AI Engineer).docx",
-            "RAMYADEVI P M.pdf",
-            "Resume (1).pdf",
-            "Resume (2).pdf",
-            "resume (3).pdf",
-            "resume (4).pdf",
-            "resume.rev.pdf",
-            "resume1 (3).pdf",
-            "resume2.pdf",
-            "RESUME_DEVELOPER.pdf",
-            "Resume_Roshini.pdf",
-            "Roshini_JK_Resume_Pickyourtrail_Updated.pdf",
-            "Vansh_Pathak_Resume.pdf",
-            "Vidhya Varshini b Resume.pdf",
-            "VimaleshCT_Resume.pdf"
+            "arun_prakash.pdf"
         ],
         "0": [
-            "Amala_ML_Engineer_Resume.docx",
-            "CV .pdf",
-            "Data_Analyst_Resume.docx",
-            "DOC-20260331-WA0013..pdf",
-            "Document from ....pdf",
-            "Document from \ud83d\ude0a (1) (1) (1).pdf",
-            "Harsha_resume.pdf",
-            "Hursh Desai - Resume.pdf",
-            "JAYAKUMAR RESUME.pdf",
-            "MEENA LAKSHMI.docx",
-            "Mobile_App_Developer_Resume.docx",
-            "NIVETHA R.docx",
-            "OmkarResume.pdf",
-            "PRIYA S.docx",
-            "PROGRAM ANALYST RESUME.docx",
-            "Rajesh Kumar RESUME.docx",
-            "Rajesh_Systems_Engineer_Resume.docx",
-            "Resume-1 Jaswant - Simple one.pdf",
-            "resume3.pdf",
-            "Saveetha_Analyst_Resume.docx",
-            "Selvam_Business_Analyst_Resume.docx",
-            "Soumiya V S resume info IBM.pdf",
-            "TEST ENGINEER RESUME.docx",
-            "tester.docx",
-            "Untitled document.docx",
-            "Vishwa_CV.pdf",
-            "_DIVYA PRIYA.docx"
+            "Evanjelin_Backend_Developer_Resume.docx"
+        ],
+        "1": [
+            "PRANITHA_demo.pdf"
         ]
     }
 }

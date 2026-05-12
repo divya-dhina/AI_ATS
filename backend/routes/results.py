@@ -106,12 +106,38 @@ def get_candidate(candidate_id: str):
     shap_row = cursor.fetchone()
     shap_columns = [desc[0] for desc in cursor.description]
 
-    conn.close()
+    
 
     if not llm_row:
         return {"error": "Candidate not found"}
+    
 
+    # ─────────────────────────────────────
+    # Get Resume Name from DB
+    # ─────────────────────────────────────
+    
+
+    cursor.execute("""
+        SELECT resume_name
+        FROM final_ranking
+        WHERE candidate_id = %s
+    """, (candidate_id,))
+
+    resume_row = cursor.fetchone()
+
+    resume_url = None
+
+    if resume_row:
+        resume_filename = resume_row[0]
+
+        resume_url = (
+            f"http://127.0.0.1:8000/resumes/{resume_filename}"
+    )
+        
+    conn.close()
+    
     return {
         "llm": dict(zip(llm_columns, llm_row)),
-        "shap": dict(zip(shap_columns, shap_row)) if shap_row else None
+        "shap": dict(zip(shap_columns, shap_row)) if shap_row else None,
+        "resume_url": resume_url
     }
