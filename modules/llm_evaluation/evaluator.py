@@ -64,9 +64,9 @@ def ensure_complete_output(result):
     return result
 
 
-def evaluate_candidate(candidate, job_description, semantic_score, final_score):
+def evaluate_candidate(candidate, job_description, semantic_score, final_score, shortlisted):
 
-    prompt = build_prompt(candidate, job_description, semantic_score, final_score)
+    prompt = build_prompt(candidate, job_description, semantic_score, final_score, shortlisted)
 
     payload = {
     "model": "llama3:instruct",

@@ -21,12 +21,14 @@ def run_llm_analysis(candidates, job_description, ranking_df):
 
         semantic_score = float(row["Semantic_Score"].values[0])
         final_score = float(row["Final_Score"].values[0])
+        shortlisted = row["is_shortlisted"].values[0]
 
         return evaluate_candidate(
             candidate,
             job_description,
             semantic_score,
-            final_score
+            final_score,
+            shortlisted
         )
 
     with ThreadPoolExecutor(max_workers=2) as executor:
